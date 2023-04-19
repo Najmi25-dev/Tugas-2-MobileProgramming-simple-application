@@ -1,4 +1,7 @@
 ![alt text](https://github.com/Najmi25-dev/Tugas-2-MobileProgramming-simple-application/blob/main/Screenshot_Hasil_tugas/065120140_Muhammad%20Najmi%20Muhtaram_E_P2.png?raw=true)
+![alt text](https://github.com/Najmi25-dev/Tugas-2-MobileProgramming-simple-application/blob/main/Screenshot_Hasil_tugas/065120140_Muhammad%20Najmi%20Muhtaram_E_P2_SplashScreen.png?raw=true)
+![alt text](https://github.com/Najmi25-dev/Tugas-2-MobileProgramming-simple-application/blob/main/Screenshot_Hasil_tugas/065120140_Muhammad%20Najmi%20Muhtaram_E_P2_WelcomeScreen.png?raw=true)
+
 # tugas2_aplikasi_sederhana
 
 A new Flutter project.
